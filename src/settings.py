@@ -8,7 +8,7 @@ class Settings:
 	def __init__(self):
 		# -> Main setting.
 		# Your authentication token.
-		self.AUTH_TOKEN = "YOUR_ACCESS_TOKEN" 
+		self.AUTH_TOKEN = "hsC1JrkmF2oUvLLKM1LOqKq+UTeafwpqqP6yVs/vHopxbFsFDhE0Uk4NXCgXAu0jguVbGSG3MzcczlWHhzXN1SsfrqOSZ3KXs3Qx+IH4KOPDKgjfvYseXq11voIhZi7lPEoce8A6/3M6xGrwwOtCjAdB04t89/1O/w1cDnyilFU=" 
 		
 		# -> Youtube video downloader setting.
 		# Integrate with your site url + the path for saving the downloaded videos.
@@ -17,12 +17,12 @@ class Settings:
 		
 		# -> Welcome Message when you are accepted the invite groups.
 		self.WELCOME_MESSAGE = '\
-		Hai, terimakasih sudah meng-invite aku. Silahkan gunakan perintah\
+		Hai, Aq satpam nya Genre Music Community . Silahkan gunakan perintah\
 		"!bothelp" untuk melihat perintah yang tersedia.'
 		
 		# -> Auto reply setting.
 		# Replacing "simi" words to another words.
-		self.REPLACEMENT_CALL = "Mbot Jinak"
+		self.REPLACEMENT_CALL = "Satpam Jinak"
 
 		# -> Not Important setting.
 		# Have another account? you can set it for your secondary account, it will called you/the others account as a boss.
